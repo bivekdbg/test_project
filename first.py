@@ -1,5 +1,5 @@
 # feature_1 branch created
 
-def func():
+def func(num1, num2):
     """Addition function"""
-    pass
+    return num1+num2
